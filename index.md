@@ -18,5 +18,4 @@
 
 ##### Грамматика
 - [Вопросы на Арабском языке](https://github.com/gabdulgazim/turkishforrussian/content/arabic/question.md) 
-- 
 
