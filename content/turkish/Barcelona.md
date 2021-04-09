@@ -1,5 +1,4 @@
-# 1 
-# Barselona
+# Барселона Barselona
 
 Adım Sean, yirmi bir yaşındayım.
 Меня зовут Син, мне 21.
