@@ -6,6 +6,8 @@
 - [Союзы - Bağlaç](https://github.com/gabdulgazim/turkishforrussian/content/turkish/conjunctions.md)
 - [Косвенная речь прошедшего времени - (-miş)](https://github.com/gabdulgazim/turkishforrussian/content/turkish/reported.md)
 - [Барселона - Barselona](https://github.com/gabdulgazim/turkishforrussian/content/turkish/Barselona.md)
+- [Соединенные Штаты.. "на колёсах" - Amerika Birleşik Devletleri.. "arabayla"](https://github.com/gabdulgazim/turkishforrussian/content/turkish/on-wheels.md)
+
 
 ### Арабский
 - [Арабские страны](https://github.com/gabdulgazim/turkishforrussian/content/arabic/coutries.md) 
